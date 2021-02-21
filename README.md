@@ -3,7 +3,7 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/uttej-badwane"><img height="30" src="https://tenor.com/view/teameasil-linkedin-linkedin-jam-easil-gif-18007597"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/uttej-badwane"><img height="30" src="https://dryicons.com/icon/circle-linkedin-icon-8332"></a>&nbsp;&nbsp;
  </p>
 
 
