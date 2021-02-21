@@ -3,7 +3,7 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/uttej-badwane"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/uttej-badwane"><img height="30" src="https://logos-world.net/linkedin-logo/"></a>&nbsp;&nbsp;
  </p>
 
 
@@ -29,19 +29,6 @@
 <!--  -->
 
 <br />
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
