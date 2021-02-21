@@ -8,7 +8,7 @@
 
 
 <br />
-<img align="right" height="150px" width="150px" alt="GIF" src="https://media.giphy.com/media/16dIgjWQjikY8/giphy.gif" />
+<img align="right" height="130px" width="140px" alt="GIF" src="https://media.giphy.com/media/16dIgjWQjikY8/giphy.gif" />
 <p align="center">
 </p>
 
@@ -25,12 +25,11 @@
 
 
 
-
-
-
 <!--  -->
 
 <br />
+
+
 
 
 
