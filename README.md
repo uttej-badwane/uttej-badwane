@@ -3,7 +3,7 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/uttej-badwane"><img height="30" src="https://user-images.githubusercontent.com/29105795/108614869-30cccb00-73b3-11eb-9d39-f06821ede2c0.png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/uttej-badwane"><img height="30" src="https://user-images.githubusercontent.com/29105795/108615182-442d6580-73b6-11eb-984e-5ac2312d3fe7.png"></a>&nbsp;&nbsp;
  </p>
 
 
