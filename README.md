@@ -3,14 +3,16 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/uttej-badwane"><img height="30" src="https://logos-world.net/linkedin-logo/"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/uttej-badwane"><img height="30" src="https://tenor.com/view/teameasil-linkedin-linkedin-jam-easil-gif-18007597"></a>&nbsp;&nbsp;
  </p>
 
 
 <br />
-<img align="right" height="120px" width="120px" alt="GIF" src="https://media.giphy.com/media/16dIgjWQjikY8/giphy.gif" />
+<img align="right" height="150px" width="150px" alt="GIF" src="https://media.giphy.com/media/16dIgjWQjikY8/giphy.gif" />
 <p align="center">
 </p>
+
+
 
  - I learn every day :heart:
 
